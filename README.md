@@ -1,9 +1,6 @@
-# showit
+# <img align="left" alt="ShowIt" width="100px" src="https://showit.tk/themes/youplay/img/icon.png" draggable="false" /> ShowIt ([Click to try 🚀](https://showit.tk/))
+
 ShowIt - share your online gaming 🎮 moments as videos 🎥
-
-# <img align="left" alt="Analytix" width="40px" src="https://analytix.tk/uploads/brand/ys17CmIE61mY5SrzlKBu2UbanlIvzwW2l7qmb9PX.png" draggable="false" /> Analytix ([Click to try 🚀](https://analytix.tk/))
-
-Analytix💙 - as a developer,👨‍💻 get deep insights and analyzes for your websites📈 - free of charge, unlimited storage space and in real time
 
 
 

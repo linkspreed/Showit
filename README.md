@@ -4,7 +4,7 @@ ShowIt - share your online gaming 🎮 moments as videos 🎥
 
 
 
-## **[Changelog 💙](https://github.com/linkspreed/Showit/blob/main/changelog.md)** **Check out the full Showit changelog**
+## **[Changelog 🎮](https://github.com/linkspreed/Showit/blob/main/changelog.md)** **Check out the full Showit changelog**
 ## **[Special Works 👨‍💻](https://github.com/linkspreed/Showit/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Showit besides development**
 
 

@@ -1,3 +1,30 @@
+# v2.2.2 (09 July, 2022) [Stability Update]
+ - ADDED the ability to translate dates
+ - ADDED the ability to choose player color on embed
+ - ADDED category list on homepage
+ - UPDATED all PHP libs to latest version & removed unused libs
+ - IMPROVED design of shorts on home page and profile
+ - IMPROVED design of monetization page
+ - IMPROVED design of pro system page
+ - IMPROVED design of manage sessions and balance pages
+ - IMPROVED design of radio boxes
+ - IMPROVED design of playlist models
+ - IMPROVED design of history page
+ - IMPROVED hover effects on some elements
+ - IMPROVED movies page
+ - IMPROVED stock videos page
+ - IMPROVED speed on top videos page, it was a bit slow
+ - FIXED shorts were showing order by last, now by views
+ - FIXED ajax load was not working on phones
+ - FIXED users couldn't reply to comments on posts
+ - FIXED clicking share button on home page wasn't opening the share dialog
+ - FIXED private videos were added to sitemap
+ - FIXED google login
+ - FIXED users weren't able to pay more than $1,000 in wallet
+ - FIXED movies search system was broken
+ - FIXED blank video on liked videos page showing to some users
+ - FIXED +10 minor bugs
+
 # v2.2.1 (30 May, 2022)
  - FIXED title not showing
 

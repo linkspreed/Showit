@@ -28,7 +28,7 @@ ShowIt - share your online gaming 🎮 moments as videos 🎥
 
 ## More
  
-Analytix is **free**, **real-time** and with **unlimited** resources 
+Showit is **free**, **real-time** and with **unlimited** resources 
 for developers around the world.
 
 Our focus is on **usability** and **security** 
@@ -39,22 +39,25 @@ for our developers, users and anyone who comes into contact with ([Linkspreed �
     is developed properly so that 
     the platform works as well as possible.
 ```
- You can enjoy Analytix freely and use all features to an unlimited extent.
+ You can enjoy Showit freely and use all features to an unlimited extent.
 
 ## 📷 UI
 
 
-### Privacy focused web analytics
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/1.PNG" draggable="false" />
+### Welcome
+<img align="center" alt="Showit" width="3000px" src="https://github.com/linkspreed/Showit/blob/main/screenshots/1.PNG" draggable="false" />
 
-### Analytics
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/2.PNG" draggable="false" />
-
-### Register now
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/3.PNG" draggable="false" />
+### Timeline
+<img align="center" alt="Showit" width="3000px" src="https://github.com/linkspreed/Showit/blob/main/screenshots/2.PNG" draggable="false" />
 
 ### Dashboard
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/4.PNG" draggable="false" />
+<img align="center" alt="Showit" width="3000px" src="https://github.com/linkspreed/Showit/blob/main/screenshots/3.PNG" draggable="false" />
 
-### Add a new website
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/5.PNG" draggable="false" />
+### Settings
+<img align="center" alt="Showit" width="3000px" src="https://github.com/linkspreed/Showit/blob/main/screenshots/4.PNG" draggable="false" />
+
+### Profile
+<img align="center" alt="Showit" width="3000px" src="https://github.com/linkspreed/Showit/blob/main/screenshots/5.PNG" draggable="false" />
+
+### Dark mode
+<img align="center" alt="Showit" width="3000px" src="https://github.com/linkspreed/Showit/blob/main/screenshots/6.PNG" draggable="false" />

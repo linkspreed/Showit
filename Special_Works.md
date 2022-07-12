@@ -1,4 +1,7 @@
 # 12.07.2022
+ - The new version has been released. Version 2.2.3 is now available live.
+
+# 12.07.2022
  - We will probably release the new version 2.2.3 today.
     - All important informations about this platform are available in the social networks and here on GitHub.
 

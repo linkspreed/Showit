@@ -1,3 +1,36 @@
+# v2.2.4 (07 Aug, 2022)
+ - ADDED the ability to import videos from TikTok.
+ - ADDED BackBlaze storage.
+ - ADDED Hindi, Urdu, Chine, Indonesian, Croatian, Hebrew, Bengali, Japanese, Portuguese, Italian, Persian, Swedish, Vietnamese, Danish, Filipino languages.
+ - ADDED the ability to mark all messages as read.
+ - ADDED time to messages.
+ - ADDED load more to message users.
+ - ADDED the ability to add video title for live streaming.
+ - ADDED cronjob.php file, all background processes are now added to cronjob.php, the file should be added to your server crontab, How to add cronjob?
+ - IMPROVED design in few sections.
+ - IMPROVED hreflang tags.
+ - IMPROVED SEO of whole website.
+ - REMOVED 100MB+ from outdated libs and replaced them with cURL, for faster load speeds.
+ - REMOVED 10+ outdated files and merged to one file (watch page).
+ - REMOVED 13 columns from database, and replaced with faster method (payments).
+ - FIXED when you copy a password using the mouse button and paste it in the password field it does not work (password complicity)
+ - FIXED 5 PHP warnings and fatel errors.
+ - FIXED nginx rules, if you are using nginx, you need to update the nginx.conf of your server with the updated one.
+ - FIXED max allowed processes for ffmpeg.
+ - FIXED upload issue for files more than 2.5GB.
+ - FIXED history page was not updating new watched videos.
+ - FIXED no title in 404 pages.
+ - FIXED the dollar mark ($) that appear in all Mass Notifications.
+ - FIXED autoplay videos repeating the same videos.
+ - FIXED reset password was missing the password complicity system.
+ - FIXED pro users couldn't set videos as "Featured"
+ - FIXED Twitch import was not working.
+ - FIXED nodejs CROS problems.
+ - FIXED trending page showing videos with 0 views.
+ - FIXED points not received if user uploads a new video.
+ - FIXED important security exploit in API.
+ - FIXED +10 minor bugs.
+
 # v2.2.3 (12 Jul, 2022)
  - ADDED quailty selector to embed video system.
  - FIXED videos playing twice in background.

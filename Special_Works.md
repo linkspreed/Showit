@@ -1,4 +1,7 @@
 # 22.08.2022
+ - The update for the video streaming platforms has been pushed back a bit because we want to develop a few more features.
+
+# 22.08.2022
  - Today we are expected to release a new update (version 2.2.5) for Showit
 
 # 07.08.2022

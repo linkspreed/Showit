@@ -1,3 +1,9 @@
+# v2.2.5 (23 Aug, 2022)
+ - ADDED more regions to spaces and amazon s3.
+ - FIXED tiktok short links not importing.
+ - FIXED DigitalOcean, BackBlaze and Wasabi upload system.
+ - FIXED +10 minor bugs.
+
 # v2.2.4 (07 Aug, 2022)
  - ADDED the ability to import videos from TikTok.
  - ADDED BackBlaze storage.

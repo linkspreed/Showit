@@ -1,3 +1,6 @@
+# 31.08.2022
+ - On September 1st, 2022 we will launch a new update.
+
 # 23.08.2022
  - Showit has been successfully updated to version 2.2.5.
 

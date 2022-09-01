@@ -1,4 +1,7 @@
 # 01.09.2022
+ - Update 2.2.6 was successfully installed on the servers.
+
+# 01.09.2022
  - We are now starting the update
 
 # 01.09.2022

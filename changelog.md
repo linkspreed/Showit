@@ -1,3 +1,10 @@
+# v2.2.6 (01 Sep, 2022)
+ - ADDED the ability to upload media files directly to spaces, amazon, wasabi and blackaze.
+ - ADDED custom endpoint (domain name) for S3, Spaces, Wasabi and Backblaze (CDN support).
+ - ADDED chunk upload system, now the video is being chunked while uploading to small parts.
+ - ADDED support for lightspeed.
+ - FIXED +2 minor bugs.
+
 # v2.2.5 (23 Aug, 2022)
  - ADDED more regions to spaces and amazon s3.
  - FIXED tiktok short links not importing.

@@ -1,4 +1,7 @@
 # 05.09.2022
+ - The update (version 2.2.7) was carried out successfully.
+
+# 05.09.2022
  - The servers are ready - we start the update :D
 
 # 05.09.2022

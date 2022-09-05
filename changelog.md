@@ -1,3 +1,26 @@
+# v2.2.7 (05 Sep, 2022)
+ - ADDED video cleaner in cronjob, some videos and thumbnails were not being deleted.
+ - ADDED the ability to disable a language.
+ - ADDED "Email Deliverability" system to debug and check the log of SMTP settings.
+ - ADDED the ability to set minimum withdrawal amount.
+ - ADDED unlimited upload size to max allowed upload size.
+ - ADDED CronJob Settings pages to manage cronjob status,
+ - ADDED password_hash system, instead of sha1.
+ - ADDED the ability to choose YouTube original player on imported videos.
+ - ADDED new Twitch API for importing channels.
+ - FIXED shorts views not updating when landing directly.
+ - FIXED language model showing broken when enabling maintenance mode.
+ - FIXED top up feature not working when using french language.
+ - FIXED shorts going to 404 when visiting from search page.
+ - FIXED some css/js files loading from cdns.
+ - FIXED members can not subscribe to a channel if the language is in French.
+ - FIXED Movie sales are not reflected in the balance.
+ - FIXED can't place comments with enter button on Shorts. It will move to next line.
+ - FIXED Google Analytics input, now you can add any custom HTML code in head tag.
+ - FIXED even if you have enough wallet balance, you will be asked to charge your wallet.
+ - FIXED noindex issue on embeded videos.
+ - FIXED +5 minor bugs.
+
 # v2.2.6 (01 Sep, 2022)
  - ADDED the ability to upload media files directly to spaces, amazon, wasabi and blackaze.
  - ADDED custom endpoint (domain name) for S3, Spaces, Wasabi and Backblaze (CDN support).

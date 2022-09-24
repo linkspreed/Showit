@@ -1,5 +1,9 @@
 # 24.09.2022
-- We are now preparing everything for the launch of version 2.2.8 of our streaming platforms.
+ - Version 2.2.8 is now ready and the servers are already ready for launch.
+ - We will start the upload shortly.
+
+# 24.09.2022
+ - We are now preparing everything for the launch of version 2.2.8 of our streaming platforms.
 
 # 24.09.2022
  - I am proud to announce that today we will finish development work on version 2.2.8 for Showit and will launch the new version at 9pm CEST. 🥳

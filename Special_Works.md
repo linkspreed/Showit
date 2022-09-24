@@ -1,4 +1,7 @@
 # 24.09.2022
+ - The entire changelog for the new version (2.2.8) is now available on Github. :D
+
+# 24.09.2022
  - Yay, the new version 2.2.8 for Streamvalley, Shortcut, Showit and Ples is now available.
 
 # 24.09.2022

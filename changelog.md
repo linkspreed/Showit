@@ -1,3 +1,18 @@
+# v2.2.8 (24 Sep, 2022)
+ - FIXED emojis not working on comments.
+ - FIXED embed video issue getting "connection refused".
+ - FIXED sometimes getting "bad-request" when uploading a new video.
+ - FIXED uploadDate in videoObject (SEO).
+ - FIXED date/time in videoObject (SEO).
+ - FIXED pinned comments not showing when user is not logged in.
+ - FIXED webp images were not working.
+ - FIXED Google analytics code not showing in embed page.
+ - FIXED comments not working on brave/edge browser.
+ - FIXED clicking load more then clicking on any video will go to 404 page (history page).
+ - FIXED plyr not working on default theme.
+ - FIXED changing embed settings in edit video page was hanging.
+ - FIXED +5 minor bugs.
+
 # v2.2.7 (05 Sep, 2022)
  - ADDED video cleaner in cronjob, some videos and thumbnails were not being deleted.
  - ADDED the ability to disable a language.

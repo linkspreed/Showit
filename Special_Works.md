@@ -1,4 +1,7 @@
 # 24.09.2022
+ - Version 2.2.8 is now being launched and loaded onto the servers.
+
+# 24.09.2022
  - Version 2.2.8 is now ready and the servers are already ready for launch.
  - We will start the upload shortly.
 

@@ -1,4 +1,7 @@
 ### 09.05.2023 (announcement Showit)
+- 🎉📺Exciting news! We've officially released Version 3.0 of Showit, the ultimate video streaming platform. 💻While we're still adding some final touches, all our new features are up for grabs. Check out the patch notes and documentation on github!📝 What's your favorite video streaming feature? #Showit #Videostreaming #Version3.0 #ExcitingUpdates
+
+### 09.05.2023 (announcement Showit)
 - https://github.com/linkspreed/Showit/blob/main/changelog.md
 - The entire changelog is now available on Github.
 

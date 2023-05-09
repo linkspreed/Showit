@@ -1,4 +1,4 @@
-# <img align="left" alt="ShowIt" width="100px" src="https://showit.tk/themes/youplay/img/icon.png" draggable="false" /> ShowIt ([Click to try 🚀](https://showit.tk/))
+# <img align="left" alt="ShowIt" width="100px" src="https://showit.tk/themes/youplay/img/icon.png" draggable="false" /> ShowIt ([Click to try 🚀](https://showit.tk/)) (v3.0)
 
 ShowIt - share your online gaming 🎮 moments as videos 🎥
 

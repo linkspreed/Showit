@@ -1,3 +1,34 @@
+# v3.0.0 (09 May, 2023)
+ - ADDED the ability to embed videos from the import system [enable/disable].
+ - ADDED Google Auth + Authy system for two authentication [enable/disable].
+ - ADDED the ability to import M3U8 URL [enable/disable].
+ - ADDED a new updated design for the "default" theme.
+ - ADDED the ability to upload video to subscribers only.
+ - ADDED privacy system, a channel owner can set their privacy for many options in the website.
+ - ADDED auto shorts import from YouTube, same as normal YouTube auto importer.
+ - ADDED yandex cloud storage.
+ - ADDED import from YouTube shorts for users [enable/disable].
+ - ADDED google cloud storage.
+ - ADDED the ability to get notifications from channels when uploading a new video.
+ - ADDED advanced affiliate system.
+ - ADDED withdrawal methods.
+ - ADDED Flutterwave payment system.
+ - ADDED developer apps, users can use your website's API now.
+ - ADDED hashtag support, users can write and search by hashtags.
+ - ADDED the ability to import a video as a movie.
+ - ADDED qiwi payment system.
+ - ADDED login with TikTok.
+ - FIXED google login.
+ - FIXED after importing a tiktok video, on homepage it shows time 00:00
+ - FIXED when user decide to unsubscribe - the buttons yes / no are empty
+ - FIXED if a user you're subscribed to uploads a video, you don't get a notification
+ - FIXED Key PayPal E-mail was not translatable in balance page.
+ - FIXED admin-cp/monetization-requests clicking verify or deny the row doesn't do anything.
+ - FIXED after purchasing a pro package, I go to go_pro link again when payment done, which cause to go to 404 page, he should go to payment successful page instead.
+ - FIXED can't scroll in auto import page after loading another 50 videos.
+ - FIXED delete user not working.
+ - FIXED webp images were not working.
+
 # v2.2.8 (24 Sep, 2022)
  - FIXED emojis not working on comments.
  - FIXED embed video issue getting "connection refused".

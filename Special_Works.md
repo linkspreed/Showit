@@ -1,4 +1,28 @@
 ### 01.06.2023 (announcement Showit)
+- 📣 Attention all streamers! 🎥📺 We just released version 3.0.1 of Showit, our top-notch video streaming platform! 🚀💻 What new features are you most excited to try out? Let us know in the comments below! 👇 #Showit #VideoStreaming #UpgradeAlert
+
+### 01.06.2023 (announcement Showit)
+- https://github.com/linkspreed/Showit/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 01.06.2023 (announcement Showit)
+- The launch of version 3.0.1 of **Showit** was successful! 🥳
+- The new update is live now :)
+- https://showit.tk 🔗
+
+### 01.06.2023 (announcement Showit)
+- We are now starting the launch of v3.0.1.
+
+### 01.06.2023 (announcement Showit)
+- The servers are now ready for the launch of version 3.0.1 for **Showit**.
+
+### 01.06.2023 (announcement Showit)
+- The code is now ready for the launch of version 3.0.1 for **Showit**.
+
+### 01.06.2023 (announcement Showit)
+-  **Showit** gets a big update today - we are going to launch v3.0.1. 😍
+
+### 01.06.2023 (announcement Showit)
 - 👨‍💻💻👩‍💼 We're currently working on the newest version, 3.0.1, of Showit - our amazing video streaming platform! 🎥🤩 What features would you like to see added or improved in this new version? #Showit #Streaming #Video #Update 🙌🏽
 
 ### 09.05.2023 (announcement Showit)

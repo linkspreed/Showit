@@ -1,3 +1,14 @@
+# v3.0.1 (01 June, 2023)
+ - ADDED the ability to import M3U8 videos.
+ - ADDED Qiwi payment method.
+ - FIXED login and register page not that responsive on mobile.
+ - FIXED categories not showing on mobile. (default theme)
+ - FIXED single quotes showing like hashtags,
+ - FIXED showing {{NOTIFY_BUTTON}} code on profile page if not logged in.
+ - FIXED ads cannot be created with default theme as the placement is missing. .
+ - FIXED paypal payment issues.
+ - IMPROVED speed of all /videos/ pages, like latest, top, trending etc.
+
 # v3.0.0 (09 May, 2023)
  - ADDED the ability to embed videos from the import system [enable/disable].
  - ADDED Google Auth + Authy system for two authentication [enable/disable].

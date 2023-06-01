@@ -1,3 +1,6 @@
+### 01.06.2023 (announcement Showit)
+- 👨‍💻💻👩‍💼 We're currently working on the newest version, 3.0.1, of Showit - our amazing video streaming platform! 🎥🤩 What features would you like to see added or improved in this new version? #Showit #Streaming #Video #Update 🙌🏽
+
 ### 09.05.2023 (announcement Showit)
 - 🎉📺Exciting news! We've officially released Version 3.0 of Showit, the ultimate video streaming platform. 💻While we're still adding some final touches, all our new features are up for grabs. Check out the patch notes and documentation on github!📝 What's your favorite video streaming feature? #Showit #Videostreaming #Version3.0 #ExcitingUpdates
 

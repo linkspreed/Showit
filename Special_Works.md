@@ -1,3 +1,6 @@
+### 26.06.2023 (announcement Showit)
+- 🎉BIG NEWS🎉 Showit is now a part of our subdomain system!🤩👀💻 But don't worry, nothing changes for you 😉👍 All your existing data is safe and you can continue to use the platform as you normally would. Have you checked out our new link?👀 #Showit #Linkspreed #Webdesign. What do you think about this change? 🔎↩️
+
 ### 01.06.2023 (announcement Showit)
 - 📣 Attention all streamers! 🎥📺 We just released version 3.0.1 of Showit, our top-notch video streaming platform! 🚀💻 What new features are you most excited to try out? Let us know in the comments below! 👇 #Showit #VideoStreaming #UpgradeAlert
 
